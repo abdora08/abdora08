@@ -17,7 +17,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white)
 
 ---
 
@@ -26,8 +25,6 @@
 |---------|-------------|------|
 | [Todo App](https://github.com/yourusername/todo-app) | A modern full-stack todo app with CRUD functionality | Node.js, EJS, MongoDB |
 | [Blog REST API](https://github.com/yourusername/blog-rest-api) | RESTful API for blog management | Node.js, Express, MongoDB |
-| [IoT Water Monitor](https://github.com/yourusername/iot-water-monitor) | Real-time IoT-based water quality monitoring | Raspberry Pi, Python, Sensors |
-| [Seizure Detection System](https://github.com/yourusername/seizure-detection) | ML-based real-time seizure detection & alerts | Raspberry Pi, Python, ML |
 
 ---
 
