@@ -36,9 +36,8 @@ I am a passionate **Full-Stack JavaScript Developer** with experience building *
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: [yourname@example.com](mailto:yourname@example.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
+- ✉️ Email: [yourname@example.com](abdibekeleb94@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/abdi-bekele-beyene)  
 
 ---
 
