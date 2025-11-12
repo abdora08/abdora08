@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Abdi Bekele 👋
+### A short tagline about you
+---
 
-<!--
-**abdora08/abdora08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** Node.js, React
+- **Tools:** Git, GitHub, VSCode
 
-Here are some ideas to get you started:
+## 💼 Projects
+- [Todo App](https://github.com/yourusername/todo-app) – A simple todo app with CRUD functionality.
+- [Blog REST API](https://github.com/yourusername/blog-rest-api) – Full-featured REST API using Node.js & MongoDB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Stats
+![Abdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## 📫 Contact
+- Email: yourname@example.com
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile)
